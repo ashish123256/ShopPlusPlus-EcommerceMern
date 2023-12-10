@@ -35,7 +35,7 @@ Payment Integration: Integrate with a payment gateway for secure transactions.
 Clone the project
 
 ```bash
-  git clone https://github.com/ashish123256/ShopPlusPlus-Ecommerce
+  git clone https://github.com/ashish123256/ShopPlusPlus-EcommerceMern.git
 ```
 
 **For Client**
