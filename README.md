@@ -1,22 +1,26 @@
 
 # SHOPPLUSPLUS - ECOMMERCE App
 
-Shopplusplus is an Ecommerce App app that allows users to Online Shopping  Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery . This app is built using React for the frontend and Node.js for the backend. The app is deployed on Heroku for easy and scalable hosting.
+Shopplusplus is an Ecommerce App app that allows users to Online Shopping  Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping. This app is built using React for the frontend and Node.js for the backend. The app is deployed on Heroku for easy and scalable hosting.
 
 ![SHOPPLUSPLUS](https://res.cloudinary.com/dlhke10we/image/upload/v1701968027/ss_jkwucx.png)
 
 ## Features
 Product Listing : Display a list of products with details (name, price, image, description).
 Implement pagination for large product catalogs.
+
 Product Details : Show detailed information about a product when clicked.Include options for quantity and an "Add to Cart" button.
-Shopping Cart: Allow users to add/remove items from the cart,
-Show the total price and quantity in the cart.
-User Authentication: Implement user registration and login,
-Secure user authentication and authorization.
-User Profiles: Enable users to view and edit their profiles,
-Show order history and tracking information.
+
+Shopping Cart: Allow users to add/remove items from the cart,Show the total price and quantity in the cart.
+
+User Authentication: Implement user registration and login,Secure user authentication and authorization.
+
+User Profiles: Enable users to view and edit their profiles,Show order history and tracking information.
+
 Admin Dashboard: Create an admin interface to manage products, orders, and users.
+
 Reviews and Ratings: Allow users to leave reviews and ratings for products.
+
 Payment Integration: Integrate with a payment gateway for secure transactions.
 
 
