@@ -27,7 +27,7 @@ Payment Integration: Integrate with a payment gateway for secure transactions.
 
 # Tech Stack
 
-**Client:** React, Redux, Material UI, React Toastify
+**Client:** React, Redux, Material UI
 
 **Server:** Node, Express, Axios, Mongoose, Stripe
 
