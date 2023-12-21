@@ -17,7 +17,7 @@ User Authentication: Implement user registration and login,Secure user authentic
 
 User Profiles: Enable users to view and edit their profiles,Show order history and tracking information.
 
-Admin Dashboard: Create an admin interface to manage products, orders, and users.
+Admin Dashboard: Create an admin interface to create products, and manage products, orders, and users.
 
 Reviews and Ratings: Allow users to leave reviews and ratings for products.
 
