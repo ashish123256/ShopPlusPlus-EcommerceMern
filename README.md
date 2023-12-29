@@ -1,7 +1,7 @@
 
 # SHOPPLUSPLUS - ECOMMERCE App
 
-Shopplusplus is an Ecommerce App app that allows users to Online Shopping  Buy mobiles, laptops, cameras, books, watches, apparel, shoes. Free Shipping. This app is built using React for the frontend and Node.js for the backend. The app is deployed on Heroku for easy and scalable hosting.
+Shopplusplus is an Ecommerce App app that allows users to Online Shopping  Buy mobiles, laptops, cameras, books, watches, shoes. Free Shipping. This app is built using React for the frontend and Node.js for the backend. The app is deployed on Heroku for easy and scalable hosting.
 
 ![SHOPPLUSPLUS](https://res.cloudinary.com/dlhke10we/image/upload/v1701968027/ss_jkwucx.png)
 
